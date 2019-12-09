@@ -1,0 +1,15 @@
+.homeSwiper .swiper-container-lin{
+  width: 100%;
+  height: 100%;
+}
+.homeSwiper .swiper-container{
+  overflow-y: hidden;
+}
+.homeSwiper .swiper-container-lin .swiper-wrapper{
+  width: 100%;
+  height: 100%!important;
+}
+.homeSwiper .swiper-container-lin .swiper-wrapper .swiper-slide{
+  width: 100%;
+  height: 100%!important;
+}
